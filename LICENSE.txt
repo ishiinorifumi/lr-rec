@@ -27,9 +27,9 @@ Copyright (c) 2026 ISHII Norifumi
    利用者は自己の責任において本ソフトウェアを利用するものとします。
 
 4. 第三者ソフトウェア
-   本ソフトウェアには、FFmpeg および ffplay（https://ffmpeg.org/）が同梱されて
-   います。これらは GNU General Public License version 3 (GPLv3) の下で配布される
-   独立したプログラムであり、本規約ではなく当該ライセンスが適用されます。
+   本ソフトウェアには、FFmpeg（https://ffmpeg.org/）が同梱されて
+   います。これは GNU Lesser General Public License version 3 (LGPLv3) の下で
+   配布される独立したプログラムであり、本規約ではなく当該ライセンスが適用されます。
    ライセンス全文および対応するソースコードの入手先は、配布物中の licenses/
    フォルダおよび README を参照してください。
 
