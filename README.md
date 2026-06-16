@@ -2,13 +2,13 @@
 
 ListenRadio（リスラジ） の放送局を聴いたり、予約録音（MP3）できる非公式の Windows アプリです。※当アプリ及び当ページは、ListenRadioとそのサービス及び株式会社ディーピーエヌとは一切関係がありません。
 
-バージョン: 1.1.0
+バージョン: 1.1.1
 
 
 ## ダウンロード
 
-[**LR-REC-1.1.0.zip をダウンロード**](https://github.com/ishiinorifumi/lr-rec/releases/tag/v1.1.0)
-（Releases ページの Assets から `LR-REC-1.1.0.zip` を取得してください）
+[**LR-REC-1.1.1.zip をダウンロード**](https://github.com/ishiinorifumi/lr-rec/releases/tag/v1.1.1)
+（Releases ページの Assets から `LR-REC-1.1.1.zip` を取得してください）
 
 ## インストール
 
