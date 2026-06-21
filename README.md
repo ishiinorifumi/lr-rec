@@ -1,6 +1,6 @@
 # LR-REC
 
-ListenRadio（リスラジ） の放送局を聴いたり、予約録音（MP3／M4A）できる非公式の Windows アプリです。
+ListenRadio（リスラジ） の放送局を聴いたり、予約録音（mp3／m4a）できる非公式の Windows アプリです。
 
 中学生がAIで作成しています。
 
